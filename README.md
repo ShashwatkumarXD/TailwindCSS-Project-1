@@ -1,4 +1,10 @@
 # React + Vite
+To run the code, please ensure that your system meets the following requirements:
+1. TailwindCSS
+2. Vite
+
+## To Get Better UnderStanding Check ScreenShots:
+https://github.com/ShashwatkumarXD/TailwindCSS/tree/main/public/Work%20Screenshots
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
