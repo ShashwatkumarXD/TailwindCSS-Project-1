@@ -1,7 +1,7 @@
 # React + Vite
 To run the code, please ensure that your system meets the following requirements:
-1. TailwindCSS
-2. Vite
+1. TailwindCSS (https://tailwindcss.com/docs/installation)
+2. Vite (https://vitejs.dev/guide/)
 
 ## To Get Better UnderStanding Check ScreenShots:
 https://github.com/ShashwatkumarXD/TailwindCSS/tree/main/public/Work%20Screenshots
