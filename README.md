@@ -16,17 +16,17 @@ This project is a basic landing page built using **React**, **Tailwind CSS**, an
 
 2. #### IPAD VIEW
 <p align="center">
-  <img src="IpadView-Project-1.png">
+  <img src="public/Work Screenshots/IpadView-Project-1.png">
 </p>
 
 3. #### MINI DESKTOP VIEW
 <p align="center">
-  <img src="Mini-DesktopView-Project-1.png">
+  <img src="public/Work Screenshots/Mini-DesktopView-Project-1.png">
 </p>
 
 4. #### PHONE VIEW
 <p align="center">
-  <img src="PhoneView-Project-1.png">
+  <img src="public/Work Screenshots/PhoneView-Project-1.png">
 </p>
 
 
