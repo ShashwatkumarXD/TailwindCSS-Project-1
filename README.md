@@ -11,7 +11,7 @@ This project is a basic landing page built using **React**, **Tailwind CSS**, an
 ## Project
 1. #### DESKTOP VIEW
 <p align="center">
-  <img src="DesktopView-Project-1.png">
+  <img src="public/Work Screenshots/DesktopView-Project-1.png">
 </p>
 
 2. #### IPAD VIEW
